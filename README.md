@@ -1,7 +1,8 @@
 # LuxShop - Premium Full-Stack E-Commerce 🚀
 
 A state-of-the-art, production-ready E-commerce platform built with the modern MERN stack.
-e-shop(1).png
+![Home](e-shop(1).png)
+
 e-shop(2).png
 e-shop3.png
 e-shop4.png
