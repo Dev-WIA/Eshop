@@ -2,10 +2,12 @@
 
 A state-of-the-art, production-ready E-commerce platform built with the modern MERN stack.
 
-![Home Page](e-shop(1).png)
-e-shop(2).png
-e-shop3.png
-e-shop4.png
+![Home ](e-shop(1).png)
+![shop](e-shop(2).png)
+![login page](e-shop3.png)
+![dashboard](e-shop4.png)
+
+
 ## 🌟 Key Features
 - **Frontend**: React 19, Vite 6, Tailwind CSS v4, Framer Motion, Recharts.
 - **Backend**: Node.js, Express, MongoDB (Mongoose).
