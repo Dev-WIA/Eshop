@@ -1,0 +1,20 @@
+{
+  "welcome": "أهلاً بك في متجر لوكس",
+  "shop": "المتجر",
+  "cart": "العربة",
+  "wishlist": "المفضلة",
+  "login": "تسجيل الدخول",
+  "register": "إنشاء حساب",
+  "logout": "تسجيل الخروج",
+  "profile": "الحساب الشخصي",
+  "dashboard": "لوحة التحكم",
+  "products": "المنتجات",
+  "orders": "الطلبات",
+  "users": "المستخدمين",
+  "search_placeholder": "ابحث عن المنتجات...",
+  "add_to_cart": "أضف إلى العربة",
+  "out_of_stock": "نفذت الكمية",
+  "in_stock": "متوفر",
+  "featured_products": "المنتجات المميزة",
+  "categories": "التصنيفات"
+}
