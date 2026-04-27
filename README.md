@@ -1,7 +1,10 @@
 # LuxShop - Premium Full-Stack E-Commerce 🚀
 
 A state-of-the-art, production-ready E-commerce platform built with the modern MERN stack.
-
+e-shop(1).png
+e-shop(2).png
+e-shop3.png
+e-shop4.png
 ## 🌟 Key Features
 - **Frontend**: React 19, Vite 6, Tailwind CSS v4, Framer Motion, Recharts.
 - **Backend**: Node.js, Express, MongoDB (Mongoose).
